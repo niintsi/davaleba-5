@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width:
+    1336px ;
+ 
+   display: flex;
+
+
+    
+    margin: 80px 52px 48px 52px;
+    background-color: aqua;
+   }
+
+
+
+.header-1-text{
+    font-family: 'Inter', sans-serif;
+font-size: 16px;
+margin: 0 590px 4px;
+
+
+
+}
+.header-2-text{
+    font-family: 'Fasthand', cursive;
+    font-family: 'Inter', sans-serif;
+    font-size: 54px;
+    margin: 0 0 4px 350px;
+   
+ 
+  
+    }
+    .header-3-text{
+
+        font-family: 'Inter', sans-serif;
+        font-size: 20px;
+        margin: 0 0 0 300px;
+    
+        }
+        .header-4-text{
+            font-family: 'Inter', sans-serif;
+            font-size: 20px;
+          margin: 4px 400px 0 ;
+        }
+
+        /*****8 mtavari divi *****/
+
+        .main{
+            display: flex;
+  flex-wrap: wrap;
+            width:
+            1336px ;
+            height: 
+            908px;
+            background-color: blueviolet;
+            margin: 0 52px 0 52px;
+            gap: 32px;
+        
+        
+        }
+        .main > div {
+        
+            background-color:yellow;
+     
+        }
+        .img {
+            width: 310px;
+            height: 
+            230px;}
+            .main-1{
+              margin: 0;
+            }
+    .main-name {
+        font-family: 'Inter', sans-serif;
+        font-size: 18px;
+        color: black;
+      font-style:normal;
+      font-weight: bold;
+      margin: 16px 0 0 16px;
+    }
+    .main-softwear{
+        font-family: 'Inter', sans-serif;
+        font-size: 14px;
+        color:
+        #3E3E59;
+      font-style:normal; 
+      margin: 4px 0 8px 16px;
+
+    }
+    .main-there-are{
+        font-family: 'Inter', sans-serif;
+        font-size: 14px;
+       color: #5F6980;
+      font-style:normal; 
+      margin: 0 0 0 16px;
+
+    }
+    .socqsel{
+        margin: 24px 16px 16px 16px;
+    }
+
+     /******* foter ****/
+        .footer{
+            display: flex;
+            Gap:420px;
+            
+            width: 100%;
+            height: 
+            512px;
+             margin: 48px 0 0 0 ;
+    }
+   
+       
+       .meore{
+
+        margin: 108px 0 0 0;
+       }
+       .mesame{
+
+        margin: 108px 0 0 0;
+       }
+       .pirveli{
+   
+        margin: 108px 0 0 65px;
+       }
+       ul{
+        list-style: none;
+       }
+       .pirvelis-teqsti{
+        margin: 32px 0 32px 0;
+        font-family: 'Inter', sans-serif;
+        color: black;
+        font-size: 14px;
+        
+       }
+       .logo{
+        margin: 0 0 0 -13px;
+       }
+       .feri{
+        width:100% ;
+        height:512px;
+        background-color: gray;
+        display: flex;
+        Gap:400px;
+                
+       }
+       .meore-main-text{
+        font-family: 'Inter', sans-serif;
+        font-size: 20px;
+        font-weight: bold;
+        
+       }
+       .meores-listi{
+        margin: 71px 0 0 0 ;
+       }
+       .listi-2{
+        margin: 15px 0 15px 0;
+       }
+       .mesame-main-text{
+        font-family: 'Inter', sans-serif;
+        font-size: 20px;
+        font-weight: bold;
+       }
+       .mesame-listi{
+        margin: 55px 0 0 0;
+        font-family: 'Inter', sans-serif;
+       }
+       .instagram{
+        margin:0 15px 0 15px;
+       }
